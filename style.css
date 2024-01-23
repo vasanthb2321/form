@@ -1,0 +1,68 @@
+
+
+.input-box2{
+    margin-top: 40px;
+}
+
+.login-register {
+    font-size: 15px;
+    color: #162938;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 21px;
+    margin-left: -330px;
+}
+
+.login-register p a:hover {
+    text-decoration: underline;
+    color: paleturquoise;
+}
+.btn {
+    width: 18%;
+    height: 25px; 
+    background: #162938;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: small;
+    color: #fff;
+    font-weight: 200;
+    margin-left: 140px;
+    margin-top: 20px;
+   
+}
+
+.full{
+    margin-top: 200px;
+    margin-left: 220px;
+    height: 540px;
+    background:linear-gradient(#33ccff,#ffffcc);
+    width: 30%;
+    padding-left: 120px;
+    padding-top: 108px;
+    
+}
+
+.input-box3{
+    margin-top: 30px;
+
+}
+.input-box4{
+    margin-top: 20px;
+}
+
+.gk{
+    margin-left: -165px;
+}
+.in-box2{
+    margin-top: 40px;
+}
+.box{
+    margin-top: 35px;
+}
+.jii h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+body{
+    background: linear-gradient(orange,red);
+}
